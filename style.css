@@ -1,0 +1,38 @@
+.bloco{
+    color: white;
+    margin:0.625rem;
+    display:block;
+    padding-left: 0.938rem;
+    padding-right:2.5rem;
+    padding-bottom:1.25rem;
+    height: 4.063rem;
+    width: 16rem;
+}
+
+h1{
+    height:0.188rem;    
+}
+
+#bloco-1{
+    background-color:orange;
+    border:0.313rem solid coral;
+}
+
+#bloco-2{
+    background-color:forestgreen;
+    border:0.313rem solid rgb(158, 230, 16);
+}
+
+#bloco-3{
+    background-color: darkgreen;
+    border:0.313rem dashed rgb(66, 221, 66);
+}
+
+#bloco-4{
+    background-color: red;
+    border:0.313rem dashed lightcoral;
+}
+
+main{
+    font-family: Helvetica;
+}
